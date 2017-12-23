@@ -7,7 +7,7 @@
 ### 一、神秘地初探——@keyframes
 来到公司不久，接到了一个落地页面的任务，里边有一个引导下载的按钮，UI效果大概是这样：
 
-![ui效果图](./images/flowing-arrow-ui.png)
+![ui效果图](images/animation/flowing-arrow-ui.png)
 
 看到效果图的时候，觉得箭头如果能流动起来，就可以更好地吸引用户注意而达到引导的效果。算是自己给自己派发的一个额外需求吧~
 
