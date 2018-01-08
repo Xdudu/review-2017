@@ -9,6 +9,7 @@
 
 #### xxx
 * [做起来，自己动！-- 动画小试](x/animation.md)
+* [Promise大法好](x/promise.md)
 
 
 #### yyy
